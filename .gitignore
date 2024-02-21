@@ -3,6 +3,6 @@ requirements.txt
 chat_history.db
 lib
 pyvenv.cfg
-/bin
-/etc
-/share
+bin/
+etc/
+share/
