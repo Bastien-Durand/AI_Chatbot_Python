@@ -1,0 +1,5 @@
+requirements.txt
+.env
+chat_history.db
+lib
+pyvenv.cfg
